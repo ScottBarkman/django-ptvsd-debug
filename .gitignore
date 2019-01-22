@@ -1,0 +1,3 @@
+build/*
+dist/*
+django_ptvsd_debug.egg-info
